@@ -21,6 +21,7 @@
  
 
  
-  ![Snake animation](https://github.com/helenpalheta/helenpalheta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 </div>
