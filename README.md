@@ -17,9 +17,8 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/helenpalheta" target="_blank"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://mail.google.com/mail/u/0/)" target="_blank"></a>
   <a href="https://www.instagram.com/helen_palheta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:helencristinapalheta21@gmail.com"><img src="https://www.gmail.com.br" target="_blank"></a>
+ 
 
  
   ![Snake animation](https://github.com/helenpalheta/helenpalheta/blob/output/github-contribution-grid-snake.svg)
